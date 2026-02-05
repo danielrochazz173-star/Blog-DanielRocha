@@ -1,7 +1,7 @@
 title: Blog - danielrochazz173-star
 enableEmoji: true
 languageCode: "pt-BR"
-baseURL: "https://danielrochazz173-star.github.io/"
+baseURL: "https://danielrochazz173-star.github.io/Blog-DanielRocha/"
 
 outputs:
   home: [HTML, RSS]
