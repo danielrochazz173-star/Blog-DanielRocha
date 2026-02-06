@@ -2,8 +2,10 @@
 title: "Olá, mundo"
 date: 2026-02-06T10:00:00-03:00
 draft: false
-description: "Primeiro post do blog."
-tags: [inicio]
+description: "Um começo simples para um espaço sobre fé, vida, família e hobbies."
+tags: [inicio, vida]
 ---
 
-Este é meu primeiro post no blog. Em breve mais conteúdo.
+Olá! Este é o começo do meu blog pessoal.
+
+Aqui eu falo sobre fé, vida, família e hobbies.
