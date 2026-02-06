@@ -49,13 +49,18 @@ def group_by_month(posts)
     .group_by { |post| [post[:date].year, post[:date].month] }
 end
 
+MONTH_NAMES_PT = [
+  nil, "janeiro", "fevereiro", "março", "abril", "maio", "junho",
+  "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"
+].freeze
+
 def generate_index(grouped_posts)
   sorted_months = grouped_posts.keys.sort.reverse
 
   lines = ["#{FRONTMATTER_DELIMITER}\ntitle: Daniel Rocha\n#{FRONTMATTER_DELIMITER}\n"]
 
   sorted_months.each do |(year, month)|
-    month_name = Date::MONTHNAMES[month]
+    month_name = MONTH_NAMES_PT[month]
     lines << "## #{year} - #{month_name}\n"
 
     grouped_posts[[year, month]].each do |post|
