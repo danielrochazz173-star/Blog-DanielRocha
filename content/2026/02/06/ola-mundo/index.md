@@ -1,6 +1,6 @@
 ---
 title: "Olá, mundo"
-date: 2026-02-06T10:00:00-03:00
+date: 2026-02-06T00:10:00-03:00
 draft: false
 description: "Um começo simples para um espaço sobre fé, vida, família e hobbies."
 tags: [inicio, vida]
