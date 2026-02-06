@@ -3,6 +3,8 @@ title: Daniel Rocha
 enableEmoji: true
 languageCode: "pt-BR"
 baseURL: "https://danielrochazz173-star.github.io/Blog-DanielRocha/"
+canonifyURLs: true
+relativeURLs: true
 
 outputs:
   home: [HTML, RSS]

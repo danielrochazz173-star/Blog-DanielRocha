@@ -1,5 +1,5 @@
 ---
-title: AkitaOnRails's Blog
+title: Daniel Rocha
 ---
 
 ## 2026 - February

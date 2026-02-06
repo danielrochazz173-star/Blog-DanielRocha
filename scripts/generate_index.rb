@@ -52,7 +52,7 @@ end
 def generate_index(grouped_posts)
   sorted_months = grouped_posts.keys.sort.reverse
 
-  lines = ["#{FRONTMATTER_DELIMITER}\ntitle: AkitaOnRails's Blog\n#{FRONTMATTER_DELIMITER}\n"]
+  lines = ["#{FRONTMATTER_DELIMITER}\ntitle: Daniel Rocha\n#{FRONTMATTER_DELIMITER}\n"]
 
   sorted_months.each do |(year, month)|
     month_name = Date::MONTHNAMES[month]
