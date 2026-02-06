@@ -3,6 +3,6 @@ title: Sobre
 type: about
 ---
 
-Olá, sou o Daniel. Este é meu blog pessoal.
+Oi, eu sou o Daniel Rocha.
 
-Edite esta página em `content/about.md`.
+Este é meu blog pessoal. Vou escrever sobre tecnologia, dados, carreira e o que eu estiver estudando no momento.

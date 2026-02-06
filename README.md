@@ -1,6 +1,6 @@
-# Blog pessoal
+# Blog do Daniel Rocha
 
-Hugo + Hextra, publicado em [danielrochazz173-star.github.io](https://danielrochazz173-star.github.io/).
+Blog pessoal em Hugo + Hextra, com layout idêntico ao do Akita.
 
 ## Rodar local
 
@@ -40,5 +40,5 @@ Push na branch `main` dispara o GitHub Actions e publica no Pages.
 
 ## Postar pelo celular
 
-- **App GitHub:** editar/criar arquivos no repo, commit e push.
-- **Decap CMS:** adicionar depois para interface de admin no navegador.
+- App GitHub: editar/criar arquivos no repo, commit e push.
+- Editor web do GitHub: também funciona no navegador do celular.

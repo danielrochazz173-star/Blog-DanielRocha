@@ -1,5 +1,7 @@
 ---
-title: Blog
+title: AkitaOnRails's Blog
 ---
 
-Bem-vindo ao blog. Os posts aparecem abaixo (ou use o menu).
+## 2026 - February
+
+- [Olá, mundo](2026/02/06/ola-mundo/)
